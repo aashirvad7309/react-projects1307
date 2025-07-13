@@ -16,7 +16,6 @@ A sleek, responsive password generator that allows users to create strong and cu
 - 🧠 Features:
   - Set custom password length
   - Copy to clipboard functionality
-  - Auto strength indicator
   - Mobile responsive design
     
 ---
@@ -34,7 +33,7 @@ A sleek, responsive password generator that allows users to create strong and cu
 
 I'm Aashirvad Pandey — a passionate software engineering aspirant and frontend enthusiast.  
 I enjoy building real-world applications that are both functional and user-friendly.  
-Currently exploring full-stack development (MERN), and aiming to contribute to open source and GSoC 2025.
+Currently exploring front-end development , and aiming to contribute to open source.
 
 ---
 

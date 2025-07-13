@@ -21,22 +21,12 @@ A sleek, responsive password generator that allows users to create strong and cu
     
 ---
 
-## 🚧 Upcoming Projects
-
-- 🌦️ Weather App — Real-time weather data with API
-- 🧠 Quiz App — Score-based quiz with timer and result analysis
-- 🔐 Internshala Job Enhancer — Smart resume matcher & tracker
-- 🌌 Nebula Nexus — Hackathon Space Simulation App (Under Development)
-
----
-
 ## 🛠️ Tech Stack
 
 - ⚛️ React JS (with Hooks & functional components)
 - ⚡ Vite (blazing-fast dev server)
 - 🎨 Tailwind CSS (utility-first styling)
 - 🔗 Git & GitHub (version control)
-- 🚀 Netlify (for deployments)
 
 ---
 

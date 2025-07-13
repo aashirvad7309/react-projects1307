@@ -10,4 +10,5 @@ A clean & customizable password generator built with React and Tailwind CSS.
 ## 📦 Tech Stack
 React • TailwindCSS • Vite
 
-## 🔗 Live Demo: [Click here](https://your-deploy-link)
+## 🔗 Live Demo: [Click here](https://hilarious-florentine-c3f282.netlify.app
+)
